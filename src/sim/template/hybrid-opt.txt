@@ -1,0 +1,3 @@
+-Os
+
+-freorder-blocks-algorithm=stc
