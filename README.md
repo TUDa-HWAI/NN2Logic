@@ -24,6 +24,7 @@ $ python hybrid.py  # takes the qat-w-samples.json (produced by the previous com
                     # and creates the hybrid implementation as well as the reference.
 ```
 ## Reference
+
 @misc{stein2026latebreakingresultsconversion,
       title={Late Breaking Results: Conversion of Neural Networks into Logic Flows for Edge Computing}, 
       author={Daniel Stein and Shaoyi Huang and Rolf Drechsler and Bing Li and Grace Li Zhang},
