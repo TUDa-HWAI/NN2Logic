@@ -25,12 +25,10 @@ $ python hybrid.py  # takes the qat-w-samples.json (produced by the previous com
 ```
 ## Reference
 
-@misc{stein2026latebreakingresultsconversion,
-      title={Late Breaking Results: Conversion of Neural Networks into Logic Flows for Edge Computing}, 
-      author={Daniel Stein and Shaoyi Huang and Rolf Drechsler and Bing Li and Grace Li Zhang},
-      year={2026},
-      eprint={2601.22151},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2601.22151}, 
-}
+@INPROCEEDINGS{11539745,
+  author={Stein, Daniel and Huang, Shaoyi and Drechsler, Rolf and Li, Bing and Zhang, Grace Li},
+  booktitle={Design, Automation and Test in Europe Conference (DATE)}, 
+  title={Late Breaking Results: Conversion of Neural Networks into Logic Flows for Edge Computing}, 
+  year={2026}
+ }
+
